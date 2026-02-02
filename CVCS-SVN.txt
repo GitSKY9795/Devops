@@ -1,0 +1,4 @@
+CVCS:- SVN
+DVCS: - GIT 
+git commands
+bare git repo
